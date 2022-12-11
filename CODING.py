@@ -258,7 +258,7 @@ def path2():
     print("What do you want to do now")
 
     print("")
-    print("1. Go the pool")
+    print("1. Go to the pool")
     print("2. Go home")
     print("3. Eat some more food")
     print("")
